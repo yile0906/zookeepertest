@@ -1,0 +1,304 @@
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:zookeeper.version=3.7.0-e3704b390a6697bfdf4b0bef79e3da7a4f6bac4b, built on 2021-03-17 09:46 UTC
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:host.name=CHAIKAIXIANG
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.version=1.8.0_281
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.home=C:\Program Files\Java\jdk1.8.0_281\jre
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.class.path=D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit5-rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;F:\gitee-project\zookeepertest\target\test-classes;F:\gitee-project\zookeepertest\target\classes;D:\repo\junit\junit\4.13.2\junit-4.13.2.jar;D:\repo\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repo\org\apache\zookeeper\zookeeper\3.7.0\zookeeper-3.7.0.jar;D:\repo\org\apache\zookeeper\zookeeper-jute\3.7.0\zookeeper-jute-3.7.0.jar;D:\repo\org\apache\yetus\audience-annotations\0.12.0\audience-annotations-0.12.0.jar;D:\repo\io\netty\netty-handler\4.1.59.Final\netty-handler-4.1.59.Final.jar;D:\repo\io\netty\netty-common\4.1.59.Final\netty-common-4.1.59.Final.jar;D:\repo\io\netty\netty-resolver\4.1.59.Final\netty-resolver-4.1.59.Final.jar;D:\repo\io\netty\netty-buffer\4.1.59.Final\netty-buffer-4.1.59.Final.jar;D:\repo\io\netty\netty-transport\4.1.59.Final\netty-transport-4.1.59.Final.jar;D:\repo\io\netty\netty-codec\4.1.59.Final\netty-codec-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-epoll\4.1.59.Final\netty-transport-native-epoll-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-unix-common\4.1.59.Final\netty-transport-native-unix-common-4.1.59.Final.jar;D:\repo\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;D:\repo\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;D:\repo\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\repo\org\apache\logging\log4j\log4j-core\2.14.1\log4j-core-2.14.1.jar;D:\repo\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;D:\JetBrains\ideaIU-2020.1\plugins\java\lib\rt\debugger-agent.jar
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\apache-maven-3.8.1\bin;C:\Users\Administrator\AppData\Local\gitkraken\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Program Files\Java\jdk1.8.0_281\jre\bin;;.
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.compiler=<NA>
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.name=Windows 10
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.arch=amd64
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.version=10.0
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.name=Administrator
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.home=C:\Users\Administrator
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.dir=F:\gitee-project\zookeepertest
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.free=227MB
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.max=3614MB
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.total=245MB
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:637) ]
+INFO:Initiating client connection, connectString=121.40.199.149:2181 sessionTimeout=30 watcher=com.yile.zk.TestZK$1@4e4aea35
+2022-01-19 16:55:38 下午 [Thread: main][ Class:org.apache.zookeeper.common.X509Util >> Method: org.apache.zookeeper.common.X509Util.<clinit>(X509Util.java:77) ]
+INFO:Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation
+2022-01-19 16:55:39 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxnSocket >> Method: org.apache.zookeeper.ClientCnxnSocket.initProperties(ClientCnxnSocket.java:239) ]
+INFO:jute.maxbuffer value is 1048575 Bytes
+2022-01-19 16:55:39 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.initRequestTimeout(ClientCnxn.java:1726) ]
+INFO:zookeeper.request.timeout value is 0. feature enabled=false
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:zookeeper.version=3.7.0-e3704b390a6697bfdf4b0bef79e3da7a4f6bac4b, built on 2021-03-17 09:46 UTC
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:host.name=CHAIKAIXIANG
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.version=1.8.0_281
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.home=C:\Program Files\Java\jdk1.8.0_281\jre
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.class.path=D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit5-rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;F:\gitee-project\zookeepertest\target\test-classes;F:\gitee-project\zookeepertest\target\classes;D:\repo\junit\junit\4.13.2\junit-4.13.2.jar;D:\repo\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repo\org\apache\zookeeper\zookeeper\3.7.0\zookeeper-3.7.0.jar;D:\repo\org\apache\zookeeper\zookeeper-jute\3.7.0\zookeeper-jute-3.7.0.jar;D:\repo\org\apache\yetus\audience-annotations\0.12.0\audience-annotations-0.12.0.jar;D:\repo\io\netty\netty-handler\4.1.59.Final\netty-handler-4.1.59.Final.jar;D:\repo\io\netty\netty-common\4.1.59.Final\netty-common-4.1.59.Final.jar;D:\repo\io\netty\netty-resolver\4.1.59.Final\netty-resolver-4.1.59.Final.jar;D:\repo\io\netty\netty-buffer\4.1.59.Final\netty-buffer-4.1.59.Final.jar;D:\repo\io\netty\netty-transport\4.1.59.Final\netty-transport-4.1.59.Final.jar;D:\repo\io\netty\netty-codec\4.1.59.Final\netty-codec-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-epoll\4.1.59.Final\netty-transport-native-epoll-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-unix-common\4.1.59.Final\netty-transport-native-unix-common-4.1.59.Final.jar;D:\repo\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;D:\repo\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;D:\repo\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\repo\org\apache\logging\log4j\log4j-core\2.14.1\log4j-core-2.14.1.jar;D:\repo\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\apache-maven-3.8.1\bin;C:\Users\Administrator\AppData\Local\gitkraken\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Program Files\Java\jdk1.8.0_281\jre\bin;;.
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.compiler=<NA>
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.name=Windows 10
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.arch=amd64
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.version=10.0
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.name=Administrator
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.home=C:\Users\Administrator
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.dir=F:\gitee-project\zookeepertest
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.free=196MB
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.max=3614MB
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.total=245MB
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:637) ]
+INFO:Initiating client connection, connectString=121.40.199.149:2181 sessionTimeout=30 watcher=com.yile.zk.TestZK$1@290d210d
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.common.X509Util >> Method: org.apache.zookeeper.common.X509Util.<clinit>(X509Util.java:77) ]
+INFO:Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxnSocket >> Method: org.apache.zookeeper.ClientCnxnSocket.initProperties(ClientCnxnSocket.java:239) ]
+INFO:jute.maxbuffer value is 1048575 Bytes
+2022-01-19 17:10:02 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.initRequestTimeout(ClientCnxn.java:1726) ]
+INFO:zookeeper.request.timeout value is 0. feature enabled=false
+2022-01-19 17:10:11 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.SaslServerPrincipal >> Method: org.apache.zookeeper.SaslServerPrincipal.getServerPrincipal(SaslServerPrincipal.java:86) ]
+DEBUG:Canonicalized address to 121.40.199.149
+2022-01-19 17:10:11 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1171) ]
+INFO:Opening socket connection to server 121.40.199.149/121.40.199.149:2181.
+2022-01-19 17:10:11 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1173) ]
+INFO:SASL config status: Will not attempt to authenticate using SASL (unknown error)
+2022-01-19 17:10:11 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1247) ]
+WARN:Client session timed out, have not heard from server in 9218ms for session id 0x0
+2022-01-19 17:10:11 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1290) ]
+WARN:Session 0x0 for sever 121.40.199.149/121.40.199.149:2181, Closing socket connection. Attempting reconnect except it is a SessionExpiredException.
+org.apache.zookeeper.ClientCnxn$SessionTimeoutException: Client session timed out, have not heard from server in 9218ms for session id 0x0
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1248)
+2022-01-19 17:10:11 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxnSocketNIO >> Method: org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:195) ]
+DEBUG:Ignoring exception during shutdown input
+java.net.SocketException: Socket is not connected
+	at sun.nio.ch.Net.translateToSocketException(Net.java:122)
+	at sun.nio.ch.Net.translateException(Net.java:156)
+	at sun.nio.ch.Net.translateException(Net.java:162)
+	at sun.nio.ch.SocketAdaptor.shutdownInput(SocketAdaptor.java:401)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:193)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanup(ClientCnxn.java:1380)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanAndNotifyState(ClientCnxn.java:1321)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1299)
+Caused by: java.nio.channels.NotYetConnectedException
+	at sun.nio.ch.SocketChannelImpl.shutdownInput(SocketChannelImpl.java:780)
+	at sun.nio.ch.SocketAdaptor.shutdownInput(SocketAdaptor.java:399)
+	... 4 more
+2022-01-19 17:10:11 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxnSocketNIO >> Method: org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:200) ]
+DEBUG:Ignoring exception during shutdown output
+java.net.SocketException: Socket is not connected
+	at sun.nio.ch.Net.translateToSocketException(Net.java:122)
+	at sun.nio.ch.Net.translateException(Net.java:156)
+	at sun.nio.ch.Net.translateException(Net.java:162)
+	at sun.nio.ch.SocketAdaptor.shutdownOutput(SocketAdaptor.java:409)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.cleanup(ClientCnxnSocketNIO.java:198)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanup(ClientCnxn.java:1380)
+	at org.apache.zookeeper.ClientCnxn$SendThread.cleanAndNotifyState(ClientCnxn.java:1321)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1299)
+Caused by: java.nio.channels.NotYetConnectedException
+	at sun.nio.ch.SocketChannelImpl.shutdownOutput(SocketChannelImpl.java:797)
+	at sun.nio.ch.SocketAdaptor.shutdownOutput(SocketAdaptor.java:407)
+	... 4 more
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:zookeeper.version=3.7.0-e3704b390a6697bfdf4b0bef79e3da7a4f6bac4b, built on 2021-03-17 09:46 UTC
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:host.name=CHAIKAIXIANG
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.version=1.8.0_281
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.home=C:\Program Files\Java\jdk1.8.0_281\jre
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.class.path=D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit5-rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;F:\gitee-project\zookeepertest\target\test-classes;F:\gitee-project\zookeepertest\target\classes;D:\repo\junit\junit\4.13.2\junit-4.13.2.jar;D:\repo\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repo\org\apache\zookeeper\zookeeper\3.7.0\zookeeper-3.7.0.jar;D:\repo\org\apache\zookeeper\zookeeper-jute\3.7.0\zookeeper-jute-3.7.0.jar;D:\repo\org\apache\yetus\audience-annotations\0.12.0\audience-annotations-0.12.0.jar;D:\repo\io\netty\netty-handler\4.1.59.Final\netty-handler-4.1.59.Final.jar;D:\repo\io\netty\netty-common\4.1.59.Final\netty-common-4.1.59.Final.jar;D:\repo\io\netty\netty-resolver\4.1.59.Final\netty-resolver-4.1.59.Final.jar;D:\repo\io\netty\netty-buffer\4.1.59.Final\netty-buffer-4.1.59.Final.jar;D:\repo\io\netty\netty-transport\4.1.59.Final\netty-transport-4.1.59.Final.jar;D:\repo\io\netty\netty-codec\4.1.59.Final\netty-codec-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-epoll\4.1.59.Final\netty-transport-native-epoll-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-unix-common\4.1.59.Final\netty-transport-native-unix-common-4.1.59.Final.jar;D:\repo\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;D:\repo\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;D:\repo\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\repo\org\apache\logging\log4j\log4j-core\2.14.1\log4j-core-2.14.1.jar;D:\repo\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\apache-maven-3.8.1\bin;C:\Users\Administrator\AppData\Local\gitkraken\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Program Files\Java\jdk1.8.0_281\jre\bin;;.
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.compiler=<NA>
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.name=Windows 10
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.arch=amd64
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.version=10.0
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.name=Administrator
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.home=C:\Users\Administrator
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.dir=F:\gitee-project\zookeepertest
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.free=196MB
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.max=3614MB
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.total=245MB
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:637) ]
+INFO:Initiating client connection, connectString=121.40.199.149:2181 sessionTimeout=10000000 watcher=com.yile.zk.TestZK$1@290d210d
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.common.X509Util >> Method: org.apache.zookeeper.common.X509Util.<clinit>(X509Util.java:77) ]
+INFO:Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxnSocket >> Method: org.apache.zookeeper.ClientCnxnSocket.initProperties(ClientCnxnSocket.java:239) ]
+INFO:jute.maxbuffer value is 1048575 Bytes
+2022-01-19 17:11:51 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.initRequestTimeout(ClientCnxn.java:1726) ]
+INFO:zookeeper.request.timeout value is 0. feature enabled=false
+2022-01-19 17:12:00 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.SaslServerPrincipal >> Method: org.apache.zookeeper.SaslServerPrincipal.getServerPrincipal(SaslServerPrincipal.java:86) ]
+DEBUG:Canonicalized address to 121.40.199.149
+2022-01-19 17:12:00 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1171) ]
+INFO:Opening socket connection to server 121.40.199.149/121.40.199.149:2181.
+2022-01-19 17:12:00 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1173) ]
+INFO:SASL config status: Will not attempt to authenticate using SASL (unknown error)
+2022-01-19 17:12:00 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:1005) ]
+INFO:Socket connection established, initiating session, client: /192.168.50.65:64703, server: 121.40.199.149/121.40.199.149:2181
+2022-01-19 17:12:00 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:1093) ]
+DEBUG:Session establishment request sent on 121.40.199.149/121.40.199.149:2181
+2022-01-19 17:12:00 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1438) ]
+INFO:Session establishment complete on server 121.40.199.149/121.40.199.149:2181, session id = 0x101d61761ed0001, negotiated timeout = 40000
+2022-01-19 17:12:00 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:962) ]
+DEBUG:Reading reply session id: 0x101d61761ed0001, packet:: clientPath:null serverPath:null finished:false header:: 1,1  replyHeader:: 1,4,-110  request:: '/,#63616f787571696e67,v{s{31,s{'world,'anyone}}},0  response::  
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:zookeeper.version=3.7.0-e3704b390a6697bfdf4b0bef79e3da7a4f6bac4b, built on 2021-03-17 09:46 UTC
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:host.name=CHAIKAIXIANG
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.version=1.8.0_281
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.home=C:\Program Files\Java\jdk1.8.0_281\jre
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.class.path=D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit5-rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;F:\gitee-project\zookeepertest\target\test-classes;F:\gitee-project\zookeepertest\target\classes;D:\repo\junit\junit\4.13.2\junit-4.13.2.jar;D:\repo\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repo\org\apache\zookeeper\zookeeper\3.7.0\zookeeper-3.7.0.jar;D:\repo\org\apache\zookeeper\zookeeper-jute\3.7.0\zookeeper-jute-3.7.0.jar;D:\repo\org\apache\yetus\audience-annotations\0.12.0\audience-annotations-0.12.0.jar;D:\repo\io\netty\netty-handler\4.1.59.Final\netty-handler-4.1.59.Final.jar;D:\repo\io\netty\netty-common\4.1.59.Final\netty-common-4.1.59.Final.jar;D:\repo\io\netty\netty-resolver\4.1.59.Final\netty-resolver-4.1.59.Final.jar;D:\repo\io\netty\netty-buffer\4.1.59.Final\netty-buffer-4.1.59.Final.jar;D:\repo\io\netty\netty-transport\4.1.59.Final\netty-transport-4.1.59.Final.jar;D:\repo\io\netty\netty-codec\4.1.59.Final\netty-codec-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-epoll\4.1.59.Final\netty-transport-native-epoll-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-unix-common\4.1.59.Final\netty-transport-native-unix-common-4.1.59.Final.jar;D:\repo\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;D:\repo\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;D:\repo\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\repo\org\apache\logging\log4j\log4j-core\2.14.1\log4j-core-2.14.1.jar;D:\repo\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\apache-maven-3.8.1\bin;C:\Users\Administrator\AppData\Local\gitkraken\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Program Files\Java\jdk1.8.0_281\jre\bin;;.
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.compiler=<NA>
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.name=Windows 10
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.arch=amd64
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.version=10.0
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.name=Administrator
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.home=C:\Users\Administrator
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.dir=F:\gitee-project\zookeepertest
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.free=196MB
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.max=3614MB
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.total=245MB
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:637) ]
+INFO:Initiating client connection, connectString=121.40.199.149:2181 sessionTimeout=10000000 watcher=com.yile.zk.TestZK$1@290d210d
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.common.X509Util >> Method: org.apache.zookeeper.common.X509Util.<clinit>(X509Util.java:77) ]
+INFO:Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxnSocket >> Method: org.apache.zookeeper.ClientCnxnSocket.initProperties(ClientCnxnSocket.java:239) ]
+INFO:jute.maxbuffer value is 1048575 Bytes
+2022-01-19 17:12:39 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.initRequestTimeout(ClientCnxn.java:1726) ]
+INFO:zookeeper.request.timeout value is 0. feature enabled=false
+2022-01-19 17:12:48 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.SaslServerPrincipal >> Method: org.apache.zookeeper.SaslServerPrincipal.getServerPrincipal(SaslServerPrincipal.java:86) ]
+DEBUG:Canonicalized address to 121.40.199.149
+2022-01-19 17:12:48 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1171) ]
+INFO:Opening socket connection to server 121.40.199.149/121.40.199.149:2181.
+2022-01-19 17:12:48 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1173) ]
+INFO:SASL config status: Will not attempt to authenticate using SASL (unknown error)
+2022-01-19 17:12:48 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:1005) ]
+INFO:Socket connection established, initiating session, client: /192.168.50.65:64738, server: 121.40.199.149/121.40.199.149:2181
+2022-01-19 17:12:48 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:1093) ]
+DEBUG:Session establishment request sent on 121.40.199.149/121.40.199.149:2181
+2022-01-19 17:12:48 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1438) ]
+INFO:Session establishment complete on server 121.40.199.149/121.40.199.149:2181, session id = 0x101d61761ed0002, negotiated timeout = 40000
+2022-01-19 17:12:48 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:962) ]
+DEBUG:Reading reply session id: 0x101d61761ed0002, packet:: clientPath:null serverPath:null finished:false header:: 1,1  replyHeader:: 1,7,-101  request:: '/sanguo/shuguo,#63616f787571696e67,v{s{31,s{'world,'anyone}}},0  response::  
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:zookeeper.version=3.7.0-e3704b390a6697bfdf4b0bef79e3da7a4f6bac4b, built on 2021-03-17 09:46 UTC
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:host.name=CHAIKAIXIANG
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.version=1.8.0_281
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.vendor=Oracle Corporation
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.home=C:\Program Files\Java\jdk1.8.0_281\jre
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.class.path=D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit5-rt.jar;D:\JetBrains\ideaIU-2020.1\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;F:\gitee-project\zookeepertest\target\test-classes;F:\gitee-project\zookeepertest\target\classes;D:\repo\junit\junit\4.13.2\junit-4.13.2.jar;D:\repo\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\repo\org\apache\zookeeper\zookeeper\3.7.0\zookeeper-3.7.0.jar;D:\repo\org\apache\zookeeper\zookeeper-jute\3.7.0\zookeeper-jute-3.7.0.jar;D:\repo\org\apache\yetus\audience-annotations\0.12.0\audience-annotations-0.12.0.jar;D:\repo\io\netty\netty-handler\4.1.59.Final\netty-handler-4.1.59.Final.jar;D:\repo\io\netty\netty-common\4.1.59.Final\netty-common-4.1.59.Final.jar;D:\repo\io\netty\netty-resolver\4.1.59.Final\netty-resolver-4.1.59.Final.jar;D:\repo\io\netty\netty-buffer\4.1.59.Final\netty-buffer-4.1.59.Final.jar;D:\repo\io\netty\netty-transport\4.1.59.Final\netty-transport-4.1.59.Final.jar;D:\repo\io\netty\netty-codec\4.1.59.Final\netty-codec-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-epoll\4.1.59.Final\netty-transport-native-epoll-4.1.59.Final.jar;D:\repo\io\netty\netty-transport-native-unix-common\4.1.59.Final\netty-transport-native-unix-common-4.1.59.Final.jar;D:\repo\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;D:\repo\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;D:\repo\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\repo\org\apache\logging\log4j\log4j-core\2.14.1\log4j-core-2.14.1.jar;D:\repo\org\apache\logging\log4j\log4j-api\2.14.1\log4j-api-2.14.1.jar;D:\JetBrains\ideaIU-2020.1\lib\idea_rt.jar
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_281\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\apache-maven-3.8.1\bin;C:\Users\Administrator\AppData\Local\gitkraken\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Program Files\Java\jdk1.8.0_281\jre\bin;;.
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:java.compiler=<NA>
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.name=Windows 10
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.arch=amd64
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.version=10.0
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.name=Administrator
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.home=C:\Users\Administrator
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:user.dir=F:\gitee-project\zookeepertest
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.free=196MB
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.max=3614MB
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.Environment.logEnv(Environment.java:98) ]
+INFO:Client environment:os.memory.total=245MB
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ZooKeeper >> Method: org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:637) ]
+INFO:Initiating client connection, connectString=121.40.199.149:2181 sessionTimeout=10000000 watcher=com.yile.zk.TestZK$1@290d210d
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.common.X509Util >> Method: org.apache.zookeeper.common.X509Util.<clinit>(X509Util.java:77) ]
+INFO:Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxnSocket >> Method: org.apache.zookeeper.ClientCnxnSocket.initProperties(ClientCnxnSocket.java:239) ]
+INFO:jute.maxbuffer value is 1048575 Bytes
+2022-01-19 17:13:13 下午 [Thread: main][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn.initRequestTimeout(ClientCnxn.java:1726) ]
+INFO:zookeeper.request.timeout value is 0. feature enabled=false
+2022-01-19 17:13:22 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.SaslServerPrincipal >> Method: org.apache.zookeeper.SaslServerPrincipal.getServerPrincipal(SaslServerPrincipal.java:86) ]
+DEBUG:Canonicalized address to 121.40.199.149
+2022-01-19 17:13:22 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1171) ]
+INFO:Opening socket connection to server 121.40.199.149/121.40.199.149:2181.
+2022-01-19 17:13:22 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1173) ]
+INFO:SASL config status: Will not attempt to authenticate using SASL (unknown error)
+2022-01-19 17:13:22 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:1005) ]
+INFO:Socket connection established, initiating session, client: /192.168.50.65:64765, server: 121.40.199.149/121.40.199.149:2181
+2022-01-19 17:13:22 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:1093) ]
+DEBUG:Session establishment request sent on 121.40.199.149/121.40.199.149:2181
+2022-01-19 17:13:22 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1438) ]
+INFO:Session establishment complete on server 121.40.199.149/121.40.199.149:2181, session id = 0x101d61761ed0003, negotiated timeout = 40000
+2022-01-19 17:13:22 下午 [Thread: main-SendThread(121.40.199.149:2181)][ Class:org.apache.zookeeper.ClientCnxn >> Method: org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:962) ]
+DEBUG:Reading reply session id: 0x101d61761ed0003, packet:: clientPath:null serverPath:null finished:false header:: 1,1  replyHeader:: 1,9,0  request:: '/sanguo0000000000/shuguo,#63616f787571696e67,v{s{31,s{'world,'anyone}}},0  response:: '/sanguo0000000000/shuguo 
